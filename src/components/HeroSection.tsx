@@ -28,7 +28,7 @@ const HeroSection = () => {
             <Button 
               size="lg" 
               variant="outline" 
-              className="border-white text-white hover:bg-white/10 hover:text-white"
+              className="border-white bg-white text-brand-dark hover:bg-gray-100"
             >
               <a href="#contact">Solicitar Orçamento</a>
             </Button>
